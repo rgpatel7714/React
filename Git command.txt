@@ -5,3 +5,5 @@ Git command :
 4) git commit -m "Comment"
 5) git pull
 6) git push
+
+"This is command for use the github from local"
